@@ -1,12 +1,9 @@
 # Public-transport-database-management-system-using-arrays-and-file-handling-in-c.
 
-Project Objectives 
-  • Creating a file system that includes,
-      o Correct bus and train routes
-      o Correct time tables 
-      o Simple booking system
-  • Giving ability to enter or change data 
-  • Giving ability to easily query data in the file system
+Project Objectives: 
+Creating a file system that includes, Correct bus and train routes, Correct time tables , Simple booking system.
+Giving ability to enter or change data and
+giving ability to easily query data in the file system
 
 Proposed Solution
   Our proposed solution is to create a file system using C language. This file system consists of two 
